@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Screen Short
-<img src = "https://user-images.githubusercontent.com/114761517/235347069-593cb03f-fd99-4797-8fea-51370cd6be80.png
-" width = "200px">     <img src = "https://user-images.githubusercontent.com/114761517/235347088-2c56a940-2172-4c38-ba51-a6f4fff0366c.png" width = "200px">
+<img src = "https://user-images.githubusercontent.com/114761517/235347069-593cb03f-fd99-4797-8fea-51370cd6be80.png" width = "200px">    
+<img src = "https://user-images.githubusercontent.com/114761517/235347088-2c56a940-2172-4c38-ba51-a6f4fff0366c.png" width = "200px">
